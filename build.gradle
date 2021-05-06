@@ -23,6 +23,9 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-mustache'
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    compile('org.springframework.boot:spring-boot-starter-oauth2-client')
+    compile('org.springframework.session:spring-session-jdbc')
+    testCompile('org.spiringframework.security:spring-security-test')
     compileOnly 'org.projectlombok:lombok'
     runtime 'com.h2database:h2'
     annotationProcessor 'org.projectlombok:lombok'
