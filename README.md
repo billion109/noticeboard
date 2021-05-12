@@ -1,4 +1,6 @@
 ### 게시판 만들기 프로젝트
+## http://ec2-3-35-247-120.ap-northeast-2.compute.amazonaws.com:8080/
+<br><br>
 ![image](https://user-images.githubusercontent.com/49604943/117984122-85f4f900-b372-11eb-94ef-2fe94ed0e15d.png)
 <br><br>
 스프링 부트 공부를 위해 이 책을 읽고 실습해 본 게시판 만들기 프로젝트.
